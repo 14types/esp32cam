@@ -4,5 +4,7 @@ esp32cam wake up from deepsleep by pir_pin, make shots, send them to tcp server 
 TCP server recieve shots, send them to UDP server, save shots as jpeg-files.
 
 At the end of connection makes video and send to Telegram.
+
 UDP server create mjpeg stream for online watch.
+
 There is code for cam and for tcp and udp servers.
