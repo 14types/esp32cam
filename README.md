@@ -1,2 +1,2 @@
 # esp32cam
-my esp32cam apps
+esp32cam wake up from deepsleep by pir_pin, make shots, send them to tcp server and then go to sleep.
